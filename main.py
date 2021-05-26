@@ -8,7 +8,7 @@ import datetime
 # data from the robot
 topic = "robot" #
 parameter = "productionParameter"
-value = 20
+value = 20 #
 robotID = "Jungle 152145"
 dateTime = str(datetime.datetime.now())  # "2017-02-03 11:29:37"
 
