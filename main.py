@@ -6,7 +6,7 @@ import time as t
 import datetime
 
 # data from the robot
-topic = "robot"
+topic = "robot" #
 parameter = "productionParameter"
 value = 20
 robotID = "Jungle 152145"
